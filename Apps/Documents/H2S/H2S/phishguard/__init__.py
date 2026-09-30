@@ -1,0 +1,1 @@
+"""PhishGraph application package."""
